@@ -9,4 +9,4 @@
 На firebase - [DashboardPixelStory](https://pure-dashboard-c76f2.web.app/)
 
 
-![DashboardPixelStory]([https://ltdfoto.ru/images/2023/07/14/DashboardPixelStory.png](https://github.com/JavaPixelStory/pure-dashboard/blob/main/dash.png?raw=true)https://github.com/JavaPixelStory/pure-dashboard/blob/main/dash.png?raw=true)
+![DashboardPixelStory](https://raw.githubusercontent.com/JavaPixelStory/pure-dashboard/main/dash.png)
